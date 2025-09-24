@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayesha-rimione&label=Profile%20views&color=0e75b6&style=flat" alt="ayesha-rimione" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning and Data Science**
+- 🌱 I’m currently learning **NLP and Data Science**
 
-- 💬 Ask me about **C, C++, MySQL,php**
+- 💬 Ask me about **Machine Learning, C, C++, MySQL,php**
 
 - 📫 How to reach me **ayesharimi296@gmail.com**
 
