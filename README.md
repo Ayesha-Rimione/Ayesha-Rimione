@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayesha Akter Rimi</h1>
 <h3 align="center">Let's have a look what this Noob is doing...</h3>
-#💫 About Me:
-I am a Final year undergraduate CSE student from Bangladesh<br>Primary focus on Machine Learning & Deep Learning fundamentals<br>Experience in Python-based data analysis, EDA, and model evaluation<br>Familiar with NLP pipelines and applied ML workflows<br>Working knowledge of .NET for software development<br>Strong hackathon experience building practical, real-world solutions<br>Continuously improving problem-solving and Git/GitHub practices
+
+## 💫 About Me:<br>
+I’m a final-year undergraduate CSE student from Bangladesh who spends most of my time breaking things in Machine Learning and Deep Learning and then fixing them. I mainly work with Python for data analysis, EDA, and model evaluation, and I’ve built applied ML and basic NLP pipelines that actually run, not just exist in slides. I also know my way around .NET, so I’m not allergic to real software development. Hackathons forced me to think fast and build practical solutions under pressure, which was painful but effective. Right now, I’m focused on sharpening my problem-solving skills and keeping my GitHub clean enough that future me—and recruiters—don’t judge too hard.
 
 
 ## 🌐 Socials:
