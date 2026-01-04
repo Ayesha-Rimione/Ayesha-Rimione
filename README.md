@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayesha Akter Rimi</h1>
 <h3 align="center">Let's have a look what this Noob is doing...</h3>
-# 💫 About Me:
+#💫 About Me:
 I am a Final year undergraduate CSE student from Bangladesh<br>Primary focus on Machine Learning & Deep Learning fundamentals<br>Experience in Python-based data analysis, EDA, and model evaluation<br>Familiar with NLP pipelines and applied ML workflows<br>Working knowledge of .NET for software development<br>Strong hackathon experience building practical, real-world solutions<br>Continuously improving problem-solving and Git/GitHub practices
 
 
