@@ -5,7 +5,7 @@
 I’m a final-year undergraduate CSE student from Bangladesh who spends most of my time breaking things in Machine Learning and Deep Learning and then fixing them. I mainly work with Python for data analysis, EDA, and model evaluation, and I’ve built applied ML and basic NLP pipelines that actually run, not just exist in slides. I also know my way around .NET, so I’m not allergic to real software development. Hackathons forced me to think fast and build practical solutions under pressure, which was painful but effective. Right now, I’m focused on sharpening my problem-solving skills and keeping my GitHub clean enough that future me—and recruiters—don’t judge too hard.
 
 
-## 🌐 Socials:
+## 🌐 Check my other Profiles to Judge:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ayeshakterimi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ai_rimi_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayesha-akter-rimi-5929162a3) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Rimione) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayesharimi296@gmail.com) 
 
 # 💻 Tech Stack:
@@ -18,4 +18,4 @@ I’m a final-year undergraduate CSE student from Bangladesh who spends most of 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ayesha-Rimione&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+If something looks messy, it’s probably mid-refactor as Code improves with time. So does this profile. 👀
